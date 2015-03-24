@@ -3,12 +3,12 @@
     <parent>
         <groupId>org.jvnet.hudson.plugins</groupId>
         <artifactId>plugin</artifactId>
-        <version>1.579</version>
+        <version>1.395</version>
     </parent>
-    <artifactId>girls</artifactId>
+    <artifactId>endy</artifactId>
     <version>1.0.1-SNAPSHOT</version>
-    <name>Girls Plugin</name>
-    <description>Displays pictures of girls (instead of Hudson the butler) and a random fact on each build page.</description>
+    <name>Endy Plugin</name>
+    <description>Displays Endy - Endava robot as a build result.</description>
     <url>http://wiki.hudson-ci.org/display/HUDSON/Girls+Plugin</url> 
     <packaging>hpi</packaging>
     <developers>
