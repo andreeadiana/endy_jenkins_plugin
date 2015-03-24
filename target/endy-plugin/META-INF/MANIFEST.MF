@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Built-By: astanciu
+Created-By: Apache Maven
+Build-Jdk: 1.7.0_60-ea
+Extension-Name: endy-plugin
+Specification-Title: TODO
+Implementation-Title: endy-plugin
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: de.plugin.endy
+Short-Name: endy-plugin
+Long-Name: TODO Plugin
+Url: https://wiki.jenkins-ci.org/display/JENKINS/TODO+Plugin
+Plugin-Version: 1.0-SNAPSHOT (private-03/24/2015 16:20-astanciu)
+Hudson-Version: 1.580.1
+Jenkins-Version: 1.580.1
+Plugin-Developers: 
+
